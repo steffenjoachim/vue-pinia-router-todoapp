@@ -7,8 +7,6 @@ A simple Todo List application built with Vue.js and Pinia, utilizing an API for
 - [Features](#features)
 - [Technologies](#technologies)
 - [API Example](#api-example)
-- [Future Development](#future-development)
-- [License](#license)
 
 ## Usage
 
